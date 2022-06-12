@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.22)
 
-project(exp)
+project(my-dxlib-project)
 
 set(DXLIB_DIR ${CMAKE_SOURCE_DIR}/dxlib)
 
