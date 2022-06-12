@@ -1,0 +1,23 @@
+# Visual Studio
+out
+.vs
+
+# Visual Studio Code
+build
+.vscode
+
+# DXライブラリ
+dxlib
+
+# CMake
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
